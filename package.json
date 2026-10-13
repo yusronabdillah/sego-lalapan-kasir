@@ -1,0 +1,8 @@
+{
+  "name": "sego-lalapan-kasir",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx -y http-server \"kasir fix\" -o /index.html -c-1 -p 8081"
+  }
+}
